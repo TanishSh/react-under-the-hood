@@ -1,4 +1,4 @@
-# react-under-the-hood
+# ReAct Under the Hood
 
 ## Research Question
 
